@@ -1,0 +1,30 @@
+{
+  "liquidMetal": {
+    "name":"Mercury",
+    "density":13.59,
+    "type":"fluid",
+    "money":13.5,
+    "icon":"droplet"
+  },
+  "slag": {
+    "name":"Slag",
+    "density":2.5,
+    "type":"dryBulk",
+    "money":0.30,
+    "icon":"rocks",
+  },
+  "oreRocksStraya": {
+    "name":"Ore Shipped from O'Straya",
+    "density":3.8,
+    "type":"dryBulk",
+    "money":0.55,
+    "icon":"rocks",
+  },
+  "oreRocks": {
+    "name":"Belasco Ore",
+    "density":3.2,
+    "type":"dryBulk",
+    "money":0.39,
+    "icon":"rocks",
+  }
+}
